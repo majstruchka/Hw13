@@ -12,3 +12,7 @@ ul{
 li{
     list-style: none;
 }
+.foo{
+    font-size: large;
+    background-color: aquamarine;
+}
