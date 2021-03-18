@@ -2,7 +2,13 @@ nav{
     display: block;
 }
 footer{
-display: flex;
-flex-direction: column;
-align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul{
+    border: olivedrab 1px solid;
+}
+li{
+    list-style: none;
 }
